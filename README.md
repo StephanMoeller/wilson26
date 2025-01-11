@@ -7,10 +7,7 @@ Wilson26 (work name "speech bubbles") is a **hand wired** 24+2 (12 finger keys a
 Every custom keyboard is designed with certain hand specs in mind. I have rather small hands and my index finger is retatively short compared to my middle finger. I also have pinky issues that I struggle with and then my inner most thumb joint cannot bend. Every design aspect in this board has taken these specs into account. On lots of other 3x5 boards or the likes, the thumb cluster is way too close to the alpha keys and it just feels crippled to me when using them as the fingers will have to bend to allow the thumb to reach.
 
 ## Typing test video
-Video of monkeytype
-
-## My alpha layout
-Link to my qmk repo
+Video of monkeytyp
 
 ## The case
 

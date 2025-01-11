@@ -12,7 +12,7 @@ Video of monkeytyp
 ## The printing parts
 Three parts must be printed: The core and a top and bottom part of a wrapping case:
 
-https://github.com/StephanMoeller/wilson26/pics/473422918_8937594789652021_8550651728295114891_n.mp4
+https://github.com/user-attachments/assets/cdcf8ec5-f6a5-46e6-bc80-c23566f9b831
 
 ![All](https://github.com/StephanMoeller/wilson26/blob/main/pics/model_all%20parts.png)
 ![Top case](https://github.com/StephanMoeller/wilson26/blob/main/pics/model_top.png)

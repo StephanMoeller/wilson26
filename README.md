@@ -14,13 +14,6 @@ Video of monkeytyp
 ## Magnets
 Magnets are used to hold the top and the bottom together, hosting the core piece in between them. Furthermore, I have a metal plate under my desktop mat, making the keyboard stick nicely to the surface and not move around at all.
 
-## Switches, keycaps and filament used on the pictures
-On the pictures I use the followng:
-- keychrons black OSA keycaps: https://www.keychron.com/collections/all-keycaps/products/double-shot-pbt-osa-full-set-keycap-set
-- Matt black PLA (TODO: name?)
-- A black trrs cable with slim neck (needed as I didn't make room for anything wider)
-- A black usb-c cable
-
 ## Component list
 - Single unit pcbs: https://keycapsss.com/search?sSearch=KC10133_HMXMx
 - Mx hot swap sockets
@@ -37,6 +30,13 @@ NOTE: I got a great tip on discord, that it is far easier to solder stuff onto t
 - Add the pcbs, sockets and switches to the case so that they hold themselves onto the case
 - Solder each row and each col.
 ## TODO: Add a wiring diagram for above
+
+## Switches, keycaps and filament used on the pictures
+On the pictures I use the followng:
+- keychrons black OSA keycaps: https://www.keychron.com/collections/all-keycaps/products/double-shot-pbt-osa-full-set-keycap-set
+- Matt black PLA (TODO: name?)
+- A black trrs cable with slim neck (needed as I didn't make room for anything wider)
+- A black usb-c cable
 
 ## Learnings
 - Trrs requires a thin neck (blunter from my side, next board should have more spacing)

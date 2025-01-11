@@ -12,10 +12,9 @@ Every custom keyboard is designed with certain hand specs in mind. I have rather
 Video of monkeytype
 
 ## My alpha layout
-Drawing
+Link to my qmk repo
 
 ## The case
-
 
 ## Magnets
 Pictures

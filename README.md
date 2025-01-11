@@ -35,8 +35,8 @@ A special thanks to Wimads from the Bastardkb and Fingerpunch discord servers. H
 
 Another special thanks to Burfkers. Burfkers is to printers and electronics, what wimads is to onshape; a wizard with an eager to help people online. I also had some qmk challengeds that Bufkers helped sort our (dont run you qmk with sudo in general).
 
-When it comes to encouragement to decrease the number of keys in my layout, reeve_. (repo: ), casuanoob (repo: ) and apfel (repo: ) has been of great inspiration and part of the reason I kept trying out new combos until I could actually use them.
+When it comes to encouragement to decrease the number of keys in my layout, reeve_. (https://github.com/grassfedreeve), casuanoob and apfel (https://github.com/kilipan) has been of great inspiration and part of the reason I kept trying out new combos until I could actually use them.
 
-A thankyou also goes to all the nice people who gave valuable input on the fingerpunch server during the entire development: reeve_, quappo, mayday, bravekarma, damselfly, Yingeling, saixos and rafaelromao are some of them.
+A thankyou also goes to all the nice people who gave valuable input on the fingerpunch server during the entire development: reeve_, quappo (https://github.com/rmuraglia/menura-kb/), mayday, bravekarma (https://github.com/caksoylar/keymap-drawer), damselfly, Yingeling (https://zhan.co.nl/), saixos and rafaelromao (https://github.com/rafaelromao/keyboards) are some of them.
 
 I general, Quentin from bastardbk.com and sadekbaroudi from fingerpunch.xyz who both have each their discord server. These two servers are the most beginner friendly environments and the people in there have a very high average level of expertise in every area I have yet come across in this regard.

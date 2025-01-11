@@ -37,4 +37,4 @@ Wiring on both sides with a diagram
   
 - A special thanks to Wimads from the Bastardkb and Fingerpunch discord servers. Half of all the tricks I use regularly in onshape is because Wimads took his time (hours and hours) learning me the ins and outs in onshape. He also keeps commenting and giving new angles on design and ideas in general.
 - Another special thanks to Burfkers. Burfkers is to printers and electronics, what wimads is to onshape; a wizard with an eager to help people online. I also had some qmk challengeds that Bufkers helped sort our (dont run you qmk with sudo in general).
-- When it comes to encouragement to decrease the number of keys in my layout, _reeve, casuanoob and apfel has been of great inspiration and part of the reason I kept trying out new combos until I could actually use them.
+- When it comes to encouragement to decrease the number of keys in my layout, reeve_. (repo: ), casuanoob (repo: ) and apfel (repo: ) has been of great inspiration and part of the reason I kept trying out new combos until I could actually use them.

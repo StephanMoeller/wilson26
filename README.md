@@ -1,5 +1,5 @@
-# Speech bubbles 26
-Speech bubbles is a **hand wired** 24+2 (12 finger keys and a single thumb key on each side) keyboard. It has space for a quite big thumb key to allow for a constant natural hit on the key.
+# Wilson26
+Wilson26 (work name "speech bubbles") is a **hand wired** 24+2 (12 finger keys and a single thumb key on each side) keyboard. It has space for a quite big thumb key to allow for a constant natural hit on the key.
 
 ## Pictures of the keyboard
 

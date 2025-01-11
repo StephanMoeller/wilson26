@@ -3,7 +3,7 @@
 ## Pictures of the keyboard
 
 ## Specs
-- Speech bubbles is a *hand wired* 24+2 (12 finger keys and a single thumb key on each side) keyboard. It has space for a quite big thumb key to allow for a constant natural hit on the key.
+- Speech bubbles is a **hand wired** 24+2 (12 finger keys and a single thumb key on each side) keyboard. It has space for a quite big thumb key to allow for a constant natural hit on the key.
 
 ## Hand size with picture
 Every custom keyboard is designed with certain hand specs in mind. I have rather small hands and my index finger is retatively short compared to my middle finger. I also have pinly issues that I struggle with and then finally my inner most thumb joint cannot bend. Every design aspect in this board has taken these specs into account.

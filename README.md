@@ -1,7 +1,7 @@
 # Wilson26
 Wilson26 (work name "speech bubbles") is a **hand wired** 24+2 (12 finger keys and a single thumb key on each side) keyboard. It has space for a quite big thumb key to allow for a constant natural hit on the key.
 
-## Pictures of the keyboard
+## TODO: Pictures of the keyboard
 
 ## Hand size and difference between fingers
 Every custom keyboard is designed with certain hand specs in mind. I have rather small hands and my index finger is retatively short compared to my middle finger. I also have pinky issues that I struggle with and then my inner most thumb joint cannot bend. Every design aspect in this board has taken these specs into account. On lots of other 3x5 boards or the likes, the thumb cluster is way too close to the alpha keys and it just feels crippled to me when using them as the fingers will have to bend to allow the thumb to reach.
@@ -9,7 +9,12 @@ Every custom keyboard is designed with certain hand specs in mind. I have rather
 ## Typing test video
 Video of monkeytyp
 
-## The case
+## The printing parts
+Three parts must be printed: The core and a top and bottom part of a wrapping case:
+
+![All](https://github.com/StephanMoeller/wilson26/blob/main/pics/model_all%20parts.png)
+![Top case](https://github.com/StephanMoeller/wilson26/blob/main/pics/model_top.png)
+![Bottom case](https://github.com/StephanMoeller/wilson26/blob/main/pics/model_bottom.png)
 
 ## Magnets
 Magnets are used to hold the top and the bottom together, hosting the core piece in between them. Furthermore, I have a metal plate under my desktop mat, making the keyboard stick nicely to the surface and not move around at all.

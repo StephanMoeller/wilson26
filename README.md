@@ -3,7 +3,7 @@ Wilson26 (work name "speech bubbles") is a **hand wired** 24+2 (12 finger keys a
 
 ## Pictures of the keyboard
 
-## Hand size with picture
+## Hand size and difference between fingers
 Every custom keyboard is designed with certain hand specs in mind and I have rather small hands and my index finger is retatively short compared to my middle finger. I also have pinky issues that I struggle with and then finally my inner most thumb joint cannot bend. Every design aspect in this board has taken these specs into account. On lots of other 3x5 boards or the likes, the thumb cluster is way too close to the alpha keys and it just feels crippled to me when using them.
 
 ## Typing test video

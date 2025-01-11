@@ -16,9 +16,20 @@ Pictures
 
 ## Switches, keycaps and filament used on the pictures
 
+## Component list
+- Single unit pcbs: https://keycapsss.com/search?sSearch=KC10133_HMXMx
+- Mx hot swap sockets
+- smb diodes
+- two trrs sockets
+- Xiao rp2040
+- 12 round magnets of 8x3 mm
+
 ## Building
-Component list
-Wiring on both sides with a diagram
+NOTE: I got a great tip on discord, that it is far easier to solder stuff onto the pcb while they still sit in an array and then break them apart afterwards. The spacing does not allow for one to keep an entire column together as-is, so each square must be solo.
+- Print the core stl which is the part that will hold everything electronical
+- Solder the diodes onto the pcbs
+- Solder the sockets onto the pcbs
+- Add the pcbs, soc
 
 ## Learnings
 - Trrs requires a thin neck (blunter from my side, next board should have more spacing)

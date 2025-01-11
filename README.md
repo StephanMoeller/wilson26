@@ -1,5 +1,5 @@
 # Wilson26
-Wilson26 (work name "speech bubbles") is a **hand wired** 24+2 (12 finger keys and a single thumb key on each side) keyboard. It has space for a quite big thumb key to allow for a constant natural hit on the key.
+Wilson26 (work name "speech bubbles") is a **hand wired** 24+2 (12 finger keys and a single thumb key on each side) keyboard. It has space for a quite big thumb key to allow for a constant natural hit on the key. Magnets are used to hold the top and the bottom together, hosting the core piece in between them. Furthermore, I have a metal plate under my desktop mat, making the keyboard stick nicely to the surface and not move around at all.
 
 ## TODO: Pictures of the keyboard
 
@@ -16,9 +16,6 @@ Three parts must be printed: The core and a top and bottom part of a wrapping ca
 ![Top case](https://github.com/StephanMoeller/wilson26/blob/main/pics/model_top.png)
 ![Bottom case](https://github.com/StephanMoeller/wilson26/blob/main/pics/model_bottom.png)
 
-## Magnets
-Magnets are used to hold the top and the bottom together, hosting the core piece in between them. Furthermore, I have a metal plate under my desktop mat, making the keyboard stick nicely to the surface and not move around at all.
-
 ## Component list
 - Single unit pcbs: https://keycapsss.com/search?sSearch=KC10133_HMXMx
 - Mx hot swap sockets
@@ -34,6 +31,8 @@ NOTE: I got a great tip on discord, that it is far easier to solder stuff onto t
 - Solder the sockets onto the pcbs
 - Add the pcbs, sockets and switches to the case so that they hold themselves onto the case
 - Solder each row and each col.
+- Solder rows and cols onto the mcu
+- Press ft0iiii
 ## TODO: Add a wiring diagram for above
 
 ## Switches, keycaps and filament used on the pictures
@@ -46,7 +45,13 @@ On the pictures I use the followng:
 ## Learnings
 - Trrs requires a thin neck (blunter from my side, next board should have more spacing)
 - All three printable parts need a brim (at least on my printer prusa mk4) to work. This means a little border remains even after the brim is removed.
-- My next board will have a pcb (I hope) unless it will be something keywell
+- In order for the top to fit on the core, sanding was needed as they are too tight.
+- The bottom of the case has these legs pointing up to hold the core in place. This makes it annoying to take apart.
+- My next board will have a pcb (I hope) unless it will be something keywell.
+
+NOTE: Based on these learnings 
+
+h.nnoolouluolhnii..
 
 ## Special thanks
 I have used way more time experimenting with different keycounts, designs and layouts than I thought I needed to before settling with this. During this I got so much help online from so many people that I can't even remember all of them (sorry).  

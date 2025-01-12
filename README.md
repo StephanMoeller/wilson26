@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/cdcf8ec5-f6a5-46e6-bc80-c23566f9b831
 
 ## Building
 
-![Wiring](https://github.com/StephanMoeller/wilson26/pics/wiring.jpg)
+![IMG_1337](https://github.com/user-attachments/assets/3e4f5137-cf87-43e9-a498-8a0810d80b8e)
 
 NOTE: I got a great tip on discord, that it is far easier to solder stuff onto the pcb while they still sit in an array and then break them apart afterwards. The spacing does not allow for one to keep an entire column together as-is, so each square must be solo.
 - Print the core stl which is the part that will hold everything electronical

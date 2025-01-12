@@ -23,6 +23,9 @@ https://github.com/user-attachments/assets/cdcf8ec5-f6a5-46e6-bc80-c23566f9b831
 - 12 round magnets of 8x3 mm
 
 ## Building
+
+![Wiring](https://github.com/StephanMoeller/wilson26/pics/wiring.jpg)
+
 NOTE: I got a great tip on discord, that it is far easier to solder stuff onto the pcb while they still sit in an array and then break them apart afterwards. The spacing does not allow for one to keep an entire column together as-is, so each square must be solo.
 - Print the core stl which is the part that will hold everything electronical
 - Solder the diodes onto the pcbs

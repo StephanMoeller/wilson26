@@ -54,7 +54,8 @@ On the pictures I use the followng:
 - All three printable parts need a brim (at least on my printer prusa mk4) to work. This means a little border remains even after the brim is removed.
 - In order for the top to fit on the core, sanding was needed as they are too tight.
 - The bottom of the case has these legs pointing up to hold the core in place. This makes it annoying to take apart.
-- My next board will have a pcb (I hope) unless it will be something keywell.
+- Making the usb point sideways and not forward makes it harder to tent it. Future boards should have their usb pointing forwards.
+- My solderings are pretty low quality and future boards would really benefit from having one big pcb.
 
 ## Special thanks
 I have used way more time experimenting with different keycounts, designs and layouts than I thought I needed to before settling with this. During this I got so much help online from so many people that I can't even remember all of them (sorry).  

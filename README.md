@@ -4,19 +4,18 @@
 
 Wilson26 (work name "speech bubbles") is a **hand wired** 24+2 (12 finger keys and a single thumb key on each side) keyboard. It is my first custom board and first time I hand wired as well. It has room for a quite big thumb key to allow for a constant natural hit on the key. Magnets are used to hold the top and the bottom together, hosting the core piece in between them. Furthermore, I have a metal plate under my desktop mat, making the keyboard stick nicely to the surface and not move around at all.
 
-![473010573_904872761671910_5993000537577480773_n](https://github.com/user-attachments/assets/3483d01d-1c4e-4dd8-b891-cfa4471822bf)
+![473423953_571221279076248_8326833842731978371_n](https://github.com/user-attachments/assets/a19f993f-370f-4a66-b41f-ac05af229d08)
+![472075002_1117958363394474_8678355986787686338_n](https://github.com/user-attachments/assets/5e678cde-f3b6-478f-a5e7-336b90dfa48d)
 
 Held in place by magnetic plate:
-![472772766_1257146452221999_2719535943537501795_n](https://github.com/user-attachments/assets/ed20e3dc-251f-4ec3-828f-954fe8dc0996)
+![473003379_640829178515281_56395418522865878_n](https://github.com/user-attachments/assets/c783939e-63d3-48a5-8826-a7ed4052a19b)
+![472990865_586546630832899_2698287368292888015_n](https://github.com/user-attachments/assets/9bd7f625-5233-44a4-a43a-4469643be679)
+![473102178_605508079087350_890772626389882166_n](https://github.com/user-attachments/assets/c05ea7c5-0068-43dc-b5fb-052e5224b799)
 
-https://github.com/user-attachments/assets/79317fed-44d1-4464-9065-c3c680b0b202
+https://github.com/user-attachments/assets/8c85fc36-1400-44d3-85c8-3ef8c80febcd
 
-![472556541_848818513936416_1481843809402186678_n](https://github.com/user-attachments/assets/1e7b5808-f509-417c-8b83-c07ec8926bec)
-![472456768_597772769675133_2320854753181551561_n](https://github.com/user-attachments/assets/d48369fb-ca09-4798-a107-47da70ed45bc)
-![472414672_1138308854471953_644363828560622730_n](https://github.com/user-attachments/assets/3dc8a996-4241-443d-b0c9-1d1c4074bff9)
-![472640176_587801814102372_5305539112194375774_n](https://github.com/user-attachments/assets/8a1a3320-a25f-45ee-a16f-a55a6485759d)
-![473277228_447554088428515_8054211697777366360_n](https://github.com/user-attachments/assets/d05c6684-8e71-410e-a874-675597c8c9a5)
-![473019889_1144112647115652_5801369336284166013_n](https://github.com/user-attachments/assets/60772948-3ce4-41b8-ac71-930f2022a9e4)
+![472521862_3408079319487252_1427511452406876105_n](https://github.com/user-attachments/assets/99a906ba-ac4e-49d9-895d-5d9f51071e63)
+
 
 ## Hand size and difference between fingers
 Every custom keyboard is designed with certain hand specs in mind. I have rather small hands and my index finger is retatively short compared to my middle finger. I also have pinky issues that I struggle with and then my inner most thumb joint cannot bend. Every design aspect in this board has taken these specs into account. On lots of other 3x5 boards or the likes, the thumb cluster is way too close to the alpha keys and it just feels crippled to me when using them as the fingers will have to bend to allow the thumb to reach.

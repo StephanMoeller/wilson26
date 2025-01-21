@@ -9,10 +9,10 @@ Wilson26 (work name "speech bubbles") is a **hand wired** 24+2 (12 finger keys a
 
 Held in place by magnetic plate:
 ![473003379_640829178515281_56395418522865878_n](https://github.com/user-attachments/assets/c783939e-63d3-48a5-8826-a7ed4052a19b)
-![472990865_586546630832899_2698287368292888015_n](https://github.com/user-attachments/assets/9bd7f625-5233-44a4-a43a-4469643be679)
+![473016255_627345873014743_7903091954804429706_n](https://github.com/user-attachments/assets/ab7d9572-11f9-48e2-a05c-f51d4682b7e3)
 ![473102178_605508079087350_890772626389882166_n](https://github.com/user-attachments/assets/c05ea7c5-0068-43dc-b5fb-052e5224b799)
 
-https://github.com/user-attachments/assets/8c85fc36-1400-44d3-85c8-3ef8c80febcd
+https://github.com/user-attachments/assets/ba370e1b-642b-49f4-b577-661e26bb74e4
 
 ![472521862_3408079319487252_1427511452406876105_n](https://github.com/user-attachments/assets/99a906ba-ac4e-49d9-895d-5d9f51071e63)
 

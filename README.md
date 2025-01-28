@@ -19,6 +19,9 @@ https://github.com/user-attachments/assets/ba370e1b-642b-49f4-b577-661e26bb74e4
 With nurphy low profile keycaps:
 ![472566390_501821879598377_5509432900457154459_n](https://github.com/user-attachments/assets/6d8f6cde-93c4-432f-b59d-54919f3241c3)
 
+With zsa moonlander keycaps:
+
+
 ## Hand size and difference between fingers
 Every custom keyboard is designed with certain hand specs in mind. I have rather small hands and my index finger is retatively short compared to my middle finger. I also have pinky issues that I struggle with and then my inner most thumb joint cannot bend. Every design aspect in this board has taken these specs into account. On lots of other 3x5 boards or the likes, the thumb cluster is way too close to the alpha keys and it just feels crippled to me when using them as the fingers will have to bend to allow the thumb to reach.
 

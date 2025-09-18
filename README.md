@@ -73,3 +73,11 @@ When it comes to encouragement to decrease the number of keys in my layout, reev
 A thankyou also goes to all the nice people who gave valuable input on the fingerpunch server during the entire development: reeve_, quappo (https://github.com/rmuraglia/menura-kb/), mayday, bravekarma (https://github.com/caksoylar/keymap-drawer), damselfly, Yingeling (https://zhan.co.nl/), saixos, rafaelromao (https://github.com/rafaelromao/keyboards) and crazymittens (https://docs.google.com/document/d/1714zAB5GvLr3M8TnRpMvAdutThKMioJDGraUgG2VCB4/edit?tab=t.0) are some of them.
 
 I general, Quentin from bastardbk.com and sadekbaroudi from fingerpunch.xyz who both have each their discord server. These two servers are the most beginner friendly environments and the people in there have a very high average level of expertise in every area I have yet come across in this regard.
+
+
+All my boards:
+
+https://github.com/StephanMoeller/clacky-chan  
+https://github.com/StephanMoeller/mike-typeson  
+https://github.com/StephanMoeller/skinnypete32  
+https://github.com/StephanMoeller/wilson26  
